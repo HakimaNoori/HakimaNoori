@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal project**
 
-- 🌱 I’m currently learning **JavaScript, Bootstrap, Tailwind CSS, HTML, CSS**
+- 🌱 I’m currently learning **JavaScript, TypeScript, nest.js, node.js, express.js, next.js, react.js Bootstrap5, Tailwind CSS, HTML, CSS **
 
 - 💬 Ask me about **JavaScript, Bootstrap, Tailwind CSS, HTML, CSS**
 
